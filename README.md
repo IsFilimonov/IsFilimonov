@@ -1,5 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=IsFilimonov.visitor-badge)
 
+Only public repositories.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsFilimonov&layout=compact)](https://github.com/IsFilimonov/github-readme-stats)
 
 ![github stats EO4wellness](https://github-readme-stats.vercel.app/api?username=IsFilimonov&show_icons=true&theme=cobalt) <br>
