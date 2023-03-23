@@ -1,5 +1,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=IsFilimonov.visitor-badge)
 
+<img class="animated-gif" width="467" height="495" src="https://gist.githubusercontent.com/IsFilimonov/ee1680ce4f0ba809bb4dc5ccc24a1c79/raw/cc60ba9ff4abf5ab80a9d48d959a7f5b8edad1b7/kcyDYku.gif">
+
+<!-- ![Meow world](https://gist.githubusercontent.com/IsFilimonov/ee1680ce4f0ba809bb4dc5ccc24a1c79/raw/cc60ba9ff4abf5ab80a9d48d959a7f5b8edad1b7/kcyDYku.gif) -->
+
 Only public repositories.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsFilimonov&layout=compact)](https://github.com/IsFilimonov/github-readme-stats) -->
