@@ -3,7 +3,7 @@
 <!-- HEADER WAVE  -->
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Ilia%20FIlimonov&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=ilia%20Filimonov&fontSize=90" />
 
 </div>
   
