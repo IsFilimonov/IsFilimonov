@@ -17,7 +17,8 @@
 <!-- VISITORS -->
 <div align="center">
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IsFilimonov.visitor-badge)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=IsFilimonov.visitor-badge) -->
+![](https://komarev.com/ghpvc/?username=IsFilimonov)
 
 </div>
 
